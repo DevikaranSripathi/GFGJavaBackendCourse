@@ -9,8 +9,5 @@
         <module name="GFGJavaBackendCourse" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="GFGJavaBackendCourse" target="17" />
-    </bytecodeTargetLevel>
   </component>
 </project>
