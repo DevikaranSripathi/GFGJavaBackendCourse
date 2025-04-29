@@ -5,11 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="409d61d4-eb31-4a67-ae23-71ff3f179efa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/CountWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOps_10/'this' reference in Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOps_10/Abstract Class vs Interface in Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOps_10/Abstraction with Examples.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOps_10/Access Modifiers in Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOps_10/Classes and Objects in Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOps_10/Encapsulation with Examples.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOps_10/Inheritance in Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOps_10/Interfaces in Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOps_10/Introduction to Object Oriented Programming.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOps_10/Objects (Declaration, Initialization, Creation).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOps_10/Polymorphism with Examples.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOps_10/Static Members in Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOps_10/Super keyword in Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/Anagram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/BinaryToDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/Check for Anagram.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/Check for Pattern Searching.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/CountWordsTokens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/DecToBinary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/DigitsAfterDecimalPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/Find one extra character.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/FindExtraCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/Panagram Checking in Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/Panagram1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/PatternSearchingString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/String Methods in Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/StringBuffer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/StringBuilder and StringBuffer Methods.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/StringBuilder and StringBuffer.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Strings_9/StringBuilder1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array_8/Arrays in Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array_8/Arrays1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array_8/CountDistinctElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array_8/FindAverageArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array_8/Introduction to Arrays in Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array_8/IsArraySorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array_8/Jagged Array in Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array_8/JaggedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array_8/MaxNumberInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array_8/Multidimensional Arrays in Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/array_8/SumOfArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions_7/Command Line Arguments in Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions_7/CommandLineArguments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions_7/FirstDigitOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions_7/FirstDigitOfNumber1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions_7/Methods in Java.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/functions_7/PrimeFactorization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/FibonacciSeries.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/org/example/Example.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/example/Example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Strings_9/CountWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Strings_9/CountWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +83,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/array_8/CountDistinctElements.java" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -46,7 +97,9 @@
     </option>
   </component>
   <component name="ProjectId" id="2vcUqcZeoyrPaB6sEVRxwgJJdxZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -56,7 +109,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/devik/IdeaProjects/GFG Banked course/src/main/java/loops_6",
+    "last_opened_file_path": "C:/Users/devik/IdeaProjects/GFG Banked course/src/main/java/OOps_10",
     "onboarding.tips.debug.path": "C:/Users/devik/IdeaProjects/GFG Banked course/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
@@ -69,8 +122,11 @@
       <recent name="InputOutput_3" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\devik\IdeaProjects\GFG Banked course\src\main\java\OOps_10" />
+      <recent name="C:\Users\devik\IdeaProjects\GFG Banked course\src\main\java\Strings_9" />
+      <recent name="C:\Users\devik\IdeaProjects\GFG Banked course\src\main\java\array_8" />
+      <recent name="C:\Users\devik\IdeaProjects\GFG Banked course\src\main\java\functions_7" />
       <recent name="C:\Users\devik\IdeaProjects\GFG Banked course\src\main\java\loops_6" />
-      <recent name="C:\Users\devik\IdeaProjects\GFG Banked course\src\main\java\operators_4" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\devik\IdeaProjects\GFG Banked course\src\main\java\loops_6" />
@@ -129,12 +185,20 @@
       <option name="project" value="LOCAL" />
       <updated>1745063003196</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Strings&#10;1.CountWords">
+      <created>1745067596574</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745067596574</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="Strings&#10;1.CountWords" />
+    <option name="LAST_COMMIT_MESSAGE" value="Strings&#10;1.CountWords" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

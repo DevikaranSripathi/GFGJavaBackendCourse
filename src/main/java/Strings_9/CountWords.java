@@ -4,13 +4,16 @@ import java.util.Scanner;
 
 public class CountWords {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-        String str = sc.nextLine();
-        int countWords = 0;
-            String[] occurance =str.split(" ");
-        for ( String element:occurance) {
-            countWords++;
+        Scanner scanner = new Scanner(System.in);
+        String str = scanner.nextLine();
+        int countWords = 1;
+
+        for (int i = 0; i < str.length(); i++) {
+            if (str.charAt(i) == ' ') {
+                countWords++;
+            }
         }
-       System.out.println(" Total Words are "+ countWords);
+
+        System.out.println("Total words are " + countWords);
     }
 }
